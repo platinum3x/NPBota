@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "board": "ESP32_GENERIC_C6",
-  "version": 5,
-  "size": 1933120,
-  "sha256": "8e2a1043dac93ef81b0320b0203c564f1538342b4b0e01504bce5cf7f5377565",
-  "url": "https://raw.githubusercontent.com/platinum3x/NPBota/a6849f2326ce25b7f8fe79ef10ad7b99e5d21762/C6_OTA_v5.app-.bin"
+  "version": 6,
+  "size": 1932992,
+  "sha256": "1f247a44038ed07b7825cb37aca2b4ed7b95c40f1a28fddafa61dc39867979c8",
+  "url": "https://raw.githubusercontent.com/platinum3x/NPBota/33f10707ada3fa00817b8fb7f1f793310fced4d7/C6_OTA_v6.app-.bin"
 }
